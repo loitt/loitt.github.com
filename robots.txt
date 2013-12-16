@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://loitt.github.io/sitemap.xml 
