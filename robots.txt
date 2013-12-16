@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://loitt.github.io/sitemap.xml 
+Sitemap: http://git.hathu.com.vn/sitemap.xml 
