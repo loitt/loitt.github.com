@@ -1,0 +1,20 @@
+---
+layout: post
+title: "How to create a blog using octopress"
+date: 2013-12-16 16:48:59 +0700
+comments: true
+categories: 
+---
+Dân trí) - Ngay sau chi?n th?ng tru?c Aston Villa, hu?n luy?n viên David Moyes dã khi?n ngu?i hâm m? MU c?m th?y yên lòng khi h?a s? n? bom t?n ngay trong tháng 1 t?i.
+Th?ng l?i tru?c Aston Villa dã ch?m d?t chu?i 4 tr?n liên ti?p không bi?t t?i mùi chi?n th?ng c?a MU t?i Premier League. Sau chi?n th?ng này, HLV David Moyes ti?p t?c khi?n ngu?i hâm m? “Qu? d?” c?m th?y n?c lòng khi h?a h?n s? n? bom t?n trong tháng 1 t?i.
+
+David Moyes h?a s? n? bom t?n trong tháng 1
+David Moyes h?a s? n? bom t?n trong tháng 1
+
+Tru?c báo gi?i, chi?n lu?c gia ngu?i Scotland cho bi?t: “Chúng tôi dã nh?n du?c khá nhi?u ti?n tài tr? và Ban lãnh d?o d?i bóng s? chi d?m trong tháng 1 t?i. Ch?ng có gì ph?i nghi ng? v? di?u dó.
+
+Trong mùa Hè qua, MU dã t?ng ti?n r?t g?n t?i nh?ng bom t?n nhung cu?i cùng, chúng tôi dã th?t b?i. Nh?ng c?u th? ch?t lu?ng dã quy?t d?nh ch?n b?n d? khác ho?c ? l?i d?i bóng ch? qu?n”.
+
+Theo nh?ng di?n bi?n trong th?i gian qua có th? th?y David Moyes dang tích c?c san tìm m?c tiêu ? hàng ti?n v?. Trong dó, nh?ng cái tên n?i b?t du?c nh?c t?i nhu Guarin, Koke, Sneijder hay Strooman.
+
+Trong th?i gian qua, không ít ngu?i ngu?i ta b?t g?p HLV này t?i theo dõi Koke thi d?u. Bên c?nh dó, báo gi?i cung cho hay, trong nh?ng ngày qua, MU dã c? d?i di?n sang Milan d? dàm phán v?i Inter trong thuong v? Guarin.
