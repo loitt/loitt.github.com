@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Open source Blog]]></title>
-  <link href="http://git.hathu.com.vn/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Nodejs | My Open source Blog]]></title>
+  <link href="http://git.hathu.com.vn/blog/categories/nodejs/atom.xml" rel="self"/>
   <link href="http://git.hathu.com.vn/"/>
   <updated>2013-12-17T11:23:36+07:00</updated>
   <id>http://git.hathu.com.vn/</id>
@@ -26,7 +26,7 @@ Trọng tài FIFA Võ Minh Trí được giao nhiệm vụ bắt trận đấu g
 <p>Trọng tài Võ Minh Trí, ảnh: DT
 Trọng tài Võ Minh Trí, ảnh: DT</p>
 
-<p><img src="http://git.hathu.com.vn/assets/main6.jpg" alt="My helpful screenshot" /></p>
+<p><img src="/assets/main6.jpg" alt="My helpful screenshot" /></p>
 
 <p>Trong trận đấu này, ông Trí đã vô cùng dũng cảm thổi phạt 11m đối với đội chủ nhà Myanmar, sau tình huống Alfin bị thủ môn Phyo Aung Pya phạm lỗi trong vòng 16m50 ở phút 36. Và cũng từ tình huống này, trên chấm 11m, đích thân Tuasalamony đã dễ dàng ghi bàn giúp U23 Indonesia vươn lên dẫn 1-0.</p>
 
