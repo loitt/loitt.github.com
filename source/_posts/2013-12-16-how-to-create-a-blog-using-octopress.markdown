@@ -15,6 +15,8 @@ Công tác trọng tài thực sự khiến các đội bóng lo ngại ở SEA 
  
 Trọng tài Võ Minh Trí, ảnh: DT
 Trọng tài Võ Minh Trí, ảnh: DT
+
+![My helpful screenshot]({{ site.url }}/assets/main6.jpg)
  
 Trong trận đấu này, ông Trí đã vô cùng dũng cảm thổi phạt 11m đối với đội chủ nhà Myanmar, sau tình huống Alfin bị thủ môn Phyo Aung Pya phạm lỗi trong vòng 16m50 ở phút 36. Và cũng từ tình huống này, trên chấm 11m, đích thân Tuasalamony đã dễ dàng ghi bàn giúp U23 Indonesia vươn lên dẫn 1-0.
  
