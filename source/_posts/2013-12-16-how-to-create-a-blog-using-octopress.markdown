@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "How to create a blog using octopress"
 date: 2013-12-16 16:48:59 +0700
