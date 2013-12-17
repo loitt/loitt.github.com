@@ -5,7 +5,8 @@ permalink:/tutorial/how-to-create-a-blog-using-octopress/
 published:true
 date: 2013-12-16 16:48:59 +0700
 comments: true
-categories: 
+categories:[nodejs,javascript] 
+tags:[nodejs,express]
 ---
 Dân trí) - Sau trận thua 0-1 đầy bất ngờ trước indonesia, nước chủ nhà Myanmar chính thức bị loại từ vòng bảng. Các CĐV Myanmar đã vô cùng tức giận và đòi xử trọng tài người Việt Nam Võ Minh Trí, vì ông này đã không chịu…ưu ái đội nhà.
 Trọng tài FIFA Võ Minh Trí được giao nhiệm vụ bắt trận đấu giữa chủ nhà Myanmar và Indonesia chiều qua. Đây là trận đấu có tính chất rất căng thẳng, bởi cả hai đội đều có cơ hội vào bán kết. Đặc biệt, trên sân nhà, hơn 3 vạn CĐV Myanmar đã tạo ra sức ép vô cùng lớn.
