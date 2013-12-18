@@ -11,6 +11,10 @@ Theo đồ án này, Hà Nội sẽ xây dựng tổng thể 15 cầu, trong đ�
 
 Cùng với đó, Hà Nội sẽ có năm cảng hàng không và sân bay, bao gồm: cảng hàng không quốc tế Nội Bài, các sân bay Gia Lâm, Bạch Mai, Miếu Môn, Hòa Lạc.
 
+{% codeblock lang:objc %}
+[rectangle setX: 10 y: 10 width: 20 height: 20];
+{% endcodeblock %}
+
 Đáng chú ý, một hầm ngầm xuyên qua sông Hồng sẽ được xây dựng nhằm đáp ứng nhu cầu lưu thông cho người dân thủ đô.
 
 Trao đổi với Tuổi Trẻ liên quan tới việc xây dựng hầm ngầm này, ông Nguyễn Quốc Hùng, giám đốc Sở Giao thông vận tải Hà Nội, cho hay đây là chủ trương nằm trong quy hoạch chung thủ đô được Thủ tướng phê duyệt trước đó, do vậy đương nhiên nằm trong quy hoạch giao thông thủ đô.
