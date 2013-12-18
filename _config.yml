@@ -5,9 +5,9 @@
 url: http://git.hathu.com.vn
 title: My Open source Blog
 subtitle: A blogging framework for hackers.
-author: Haacked
+author: Loitt
 simple_search: http://google.com/search
-description: Blog .net, android, nodejs, angulajs
+description: Blog.net, android, nodejs, angulajs
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

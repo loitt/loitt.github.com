@@ -3,12 +3,13 @@ layout: post
 title: "How to create a blog using octopress"
 permalink: "/tutorial/how-to-create-a-blog-using-octopress/"
 published: true
+excerpt: How to use angular js
 date: 2013-12-16 16:48:59 +0700
 comments: true
 categories: [nodejs,javascript] 
 tags: [nodejs,express]
 ---
-Dân trí) - Sau trận thua 0-1 đầy bất ngờ trước indonesia, nước chủ nhà Myanmar chính thức bị loại từ vòng bảng. Các CĐV Myanmar đã vô cùng tức giận và đòi xử trọng tài người Việt Nam Võ Minh Trí, vì ông này đã không chịu…ưu ái đội nhà.
+Dân trí) - Sau trận thua 0-1 đầy bất ngờ trước indonesia, nước chủ nhà Myanmar chính thức bị loại từ vòng bảng. Các CĐV Myanmar đã vô cùng tức giận và đòi xử trọng tài người Việt Nam Võ Minh Trí, vì ông này đã không chịu…ưu ái đội nhà.<!--more-->
 Trọng tài FIFA Võ Minh Trí được giao nhiệm vụ bắt trận đấu giữa chủ nhà Myanmar và Indonesia chiều qua. Đây là trận đấu có tính chất rất căng thẳng, bởi cả hai đội đều có cơ hội vào bán kết. Đặc biệt, trên sân nhà, hơn 3 vạn CĐV Myanmar đã tạo ra sức ép vô cùng lớn.
  
 Công tác trọng tài thực sự khiến các đội bóng lo ngại ở SEA Games năm nay, nhưng có lẽ đội Indonesia đã phải cảm ơn trọng tài Võ Minh Trí khi trọng tài người Việt Nam đã bắt quá công tâm.
@@ -19,6 +20,7 @@ Trọng tài Võ Minh Trí, ảnh: DT
 ![My helpful screenshot]({{ site.url }}/assets/main6.jpg)
  
 Trong trận đấu này, ông Trí đã vô cùng dũng cảm thổi phạt 11m đối với đội chủ nhà Myanmar, sau tình huống Alfin bị thủ môn Phyo Aung Pya phạm lỗi trong vòng 16m50 ở phút 36. Và cũng từ tình huống này, trên chấm 11m, đích thân Tuasalamony đã dễ dàng ghi bàn giúp U23 Indonesia vươn lên dẫn 1-0.
+ 
  
 BHL, các cầu thủ và hàng nghìn CĐV Myanmar đã phản ứng vô cùng dữ dội, phản đối lại quyết định của trọng tài. Như dầu đổ thêm vào lửa, cuối trận U23 Myanmar chỉ còn chơi với 10 người khi Ye Lin Aung bị đuổi khỏi sân. Đây là một tình huống chính xác nữa của còi vàng Việt Nam, bởi trong một tình huống va chạm cầu thủ của chủ nhà đã có pha trả đũa ác ý đối với cầu thủ đội khách.
  
