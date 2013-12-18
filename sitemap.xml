@@ -2,15 +2,23 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://git.hathu.com.vn/tutorial/how-to-create-a-blog-using-octopress/</loc>
-        <lastmod>2013-12-17T11:23:28+07:00</lastmod>
+        <lastmod>2013-12-18T09:25:18+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://git.hathu.com.vn/blog/2013/12/18/mien-bac-ret-dam-ret-hai/</loc>
+        <lastmod>2013-12-18T09:31:07+07:00</lastmod>
     </url>
     <url>
         <loc>http://git.hathu.com.vn/blog/archives/</loc>
-        <lastmod>2013-12-17T11:23:28+07:00</lastmod>
+        <lastmod>2013-12-18T09:31:07+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://git.hathu.com.vn/contact/</loc>
+        <lastmod>2013-12-18T09:31:07+07:00</lastmod>
     </url>
     <url>
         <loc>http://git.hathu.com.vn/</loc>
-        <lastmod>2013-12-17T11:55:27+07:00</lastmod>
+        <lastmod>2013-12-18T09:31:07+07:00</lastmod>
     </url>
     <url>
         <loc>http://git.hathu.com.vn/robots.txt</loc>
