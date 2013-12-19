@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Javascript | My Open source Blog]]></title>
   <link href="http://git.hathu.com.vn/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://git.hathu.com.vn/"/>
-  <updated>2013-12-18T16:44:20+07:00</updated>
+  <updated>2013-12-19T09:08:36+07:00</updated>
   <id>http://git.hathu.com.vn/</id>
   <author>
     <name><![CDATA[Loitt]]></name>
@@ -12,6 +12,144 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ha Noi Se Xay Ham Vuot Song Hong]]></title>
+    <link href="http://git.hathu.com.vn/blog/2013/12/18/ha-noi-se-xay-ham-vuot-song-hong/"/>
+    <updated>2013-12-18T09:52:18+07:00</updated>
+    <id>http://git.hathu.com.vn/blog/2013/12/18/ha-noi-se-xay-ham-vuot-song-hong</id>
+    <content type="html"><![CDATA[<p>TT &ndash; Tin từ Sở Giao thông vận tải Hà Nội ngày 17-12 cho biết Bộ Xây dựng vừa có báo cáo thẩm định đồ án quy hoạch phát triển giao thông thủ đô Hà Nội đến năm 2030, tầm nhìn đến năm 2050. <!--more--></p>
+
+<p>Theo đồ án này, Hà Nội sẽ xây dựng tổng thể 15 cầu, trong đó có tám cầu vượt sông Đuống, ba cầu vượt sông Đà và các cầu vượt sông Đáy.</p>
+
+<p>Cùng với đó, Hà Nội sẽ có năm cảng hàng không và sân bay, bao gồm: cảng hàng không quốc tế Nội Bài, các sân bay Gia Lâm, Bạch Mai, Miếu Môn, Hòa Lạc.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="p">[</span><span class="n">rectangle</span> <span class="nl">setX:</span> <span class="mi">10</span> <span class="nl">y:</span> <span class="mi">10</span> <span class="nl">width:</span> <span class="mi">20</span> <span class="nl">height:</span> <span class="mi">20</span><span class="p">];</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Đáng chú ý, một hầm ngầm xuyên qua sông Hồng sẽ được xây dựng nhằm đáp ứng nhu cầu lưu thông cho người dân thủ đô.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>server.js </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+<span class='line-number'>55</span>
+<span class='line-number'>56</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="o">&lt;</span><span class="err">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">pre</span><span class="o">&gt;&lt;</span><span class="nx">code</span><span class="o">&gt;</span><span class="cm">/*!</span>
+</span><span class='line'><span class="cm"> * nodejs-express-mongoose-demo</span>
+</span><span class='line'><span class="cm"> * Copyright(c) 2013 Madhusudhan Srinivasa &amp;lt;madhums8@gmail.com&amp;gt;</span>
+</span><span class='line'><span class="cm"> * MIT Licensed</span>
+</span><span class='line'><span class="cm"> */</span>
+</span><span class='line'>
+</span><span class='line'><span class="cm">/**</span>
+</span><span class='line'><span class="cm"> * Module dependencies.</span>
+</span><span class='line'><span class="cm"> */</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">express</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;express&#39;</span><span class="p">)</span>
+</span><span class='line'>  <span class="p">,</span> <span class="nx">fs</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;fs&#39;</span><span class="p">)</span>
+</span><span class='line'>  <span class="p">,</span> <span class="nx">passport</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;passport&#39;</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="cm">/**</span>
+</span><span class='line'><span class="cm"> * Main application entry file.</span>
+</span><span class='line'><span class="cm"> * Please note that the order of loading is important.</span>
+</span><span class='line'><span class="cm"> */</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Load configurations</span>
+</span><span class='line'><span class="c1">// if test env, load example file</span>
+</span><span class='line'><span class="kd">var</span> <span class="nx">env</span> <span class="o">=</span> <span class="nx">process</span><span class="p">.</span><span class="nx">env</span><span class="p">.</span><span class="nx">NODE_ENV</span> <span class="o">||</span> <span class="s1">&#39;development&#39;</span>
+</span><span class='line'>  <span class="p">,</span> <span class="nx">config</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;./config/config&#39;</span><span class="p">)[</span><span class="nx">env</span><span class="p">]</span>
+</span><span class='line'>  <span class="p">,</span> <span class="nx">mongoose</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">&#39;mongoose&#39;</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Bootstrap db connection</span>
+</span><span class='line'><span class="nx">mongoose</span><span class="p">.</span><span class="nx">connect</span><span class="p">(</span><span class="nx">config</span><span class="p">.</span><span class="nx">db</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Bootstrap models</span>
+</span><span class='line'><span class="kd">var</span> <span class="nx">models_path</span> <span class="o">=</span> <span class="nx">__dirname</span> <span class="o">+</span> <span class="s1">&#39;/app/models&#39;</span>
+</span><span class='line'><span class="nx">fs</span><span class="p">.</span><span class="nx">readdirSync</span><span class="p">(</span><span class="nx">models_path</span><span class="p">).</span><span class="nx">forEach</span><span class="p">(</span><span class="kd">function</span> <span class="p">(</span><span class="nx">file</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">if</span> <span class="p">(</span><span class="o">~</span><span class="nx">file</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="s1">&#39;.js&#39;</span><span class="p">))</span> <span class="nx">require</span><span class="p">(</span><span class="nx">models_path</span> <span class="o">+</span> <span class="s1">&#39;/&#39;</span> <span class="o">+</span> <span class="nx">file</span><span class="p">)</span>
+</span><span class='line'><span class="p">})</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// bootstrap passport config</span>
+</span><span class='line'><span class="nx">require</span><span class="p">(</span><span class="s1">&#39;./config/passport&#39;</span><span class="p">)(</span><span class="nx">passport</span><span class="p">,</span> <span class="nx">config</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">app</span> <span class="o">=</span> <span class="nx">express</span><span class="p">()</span>
+</span><span class='line'><span class="c1">// express settings</span>
+</span><span class='line'><span class="nx">require</span><span class="p">(</span><span class="s1">&#39;./config/express&#39;</span><span class="p">)(</span><span class="nx">app</span><span class="p">,</span> <span class="nx">config</span><span class="p">,</span> <span class="nx">passport</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Bootstrap routes</span>
+</span><span class='line'><span class="nx">require</span><span class="p">(</span><span class="s1">&#39;./config/routes&#39;</span><span class="p">)(</span><span class="nx">app</span><span class="p">,</span> <span class="nx">passport</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Start the app by listening on &amp;lt;port&amp;gt;</span>
+</span><span class='line'><span class="kd">var</span> <span class="nx">port</span> <span class="o">=</span> <span class="nx">process</span><span class="p">.</span><span class="nx">env</span><span class="p">.</span><span class="nx">PORT</span> <span class="o">||</span> <span class="mi">3000</span>
+</span><span class='line'><span class="nx">app</span><span class="p">.</span><span class="nx">listen</span><span class="p">(</span><span class="nx">port</span><span class="p">)</span>
+</span><span class='line'><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Express app started on port &#39;</span><span class="o">+</span><span class="nx">port</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// expose app</span>
+</span><span class='line'><span class="nx">exports</span> <span class="o">=</span> <span class="nx">module</span><span class="p">.</span><span class="nx">exports</span> <span class="o">=</span> <span class="nx">app</span>
+</span><span class='line'><span class="o">&lt;</span><span class="err">/code&gt;&lt;/pre&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Trao đổi với Tuổi Trẻ liên quan tới việc xây dựng hầm ngầm này, ông Nguyễn Quốc Hùng, giám đốc Sở Giao thông vận tải Hà Nội, cho hay đây là chủ trương nằm trong quy hoạch chung thủ đô được Thủ tướng phê duyệt trước đó, do vậy đương nhiên nằm trong quy hoạch giao thông thủ đô.</p>
+
+<p>“Dự kiến hầm vượt sẽ xuất phát từ phía cuối đường Trần Hưng Đạo (khu vực ngoài đê) vượt sông Hồng qua Long Biên” &ndash; ông Hùng nói.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Create a Blog Using Octopress]]></title>

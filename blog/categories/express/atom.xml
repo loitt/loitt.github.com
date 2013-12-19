@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Nodejs | My Open source Blog]]></title>
-  <link href="http://git.hathu.com.vn/blog/categories/nodejs/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Express | My Open source Blog]]></title>
+  <link href="http://git.hathu.com.vn/blog/categories/express/atom.xml" rel="self"/>
   <link href="http://git.hathu.com.vn/"/>
   <updated>2013-12-19T09:08:36+07:00</updated>
   <id>http://git.hathu.com.vn/</id>
@@ -148,31 +148,6 @@
 <p>Trao đổi với Tuổi Trẻ liên quan tới việc xây dựng hầm ngầm này, ông Nguyễn Quốc Hùng, giám đốc Sở Giao thông vận tải Hà Nội, cho hay đây là chủ trương nằm trong quy hoạch chung thủ đô được Thủ tướng phê duyệt trước đó, do vậy đương nhiên nằm trong quy hoạch giao thông thủ đô.</p>
 
 <p>“Dự kiến hầm vượt sẽ xuất phát từ phía cuối đường Trần Hưng Đạo (khu vực ngoài đê) vượt sông Hồng qua Long Biên” &ndash; ông Hùng nói.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Create a Blog Using Octopress]]></title>
-    <link href="http://git.hathu.com.vn/tutorial/how-to-create-a-blog-using-octopress/"/>
-    <updated>2013-12-16T16:48:59+07:00</updated>
-    <id>http://git.hathu.com.vn/tutorial/how-to-create-a-blog-using-octopress</id>
-    <content type="html"><![CDATA[<p>Dân trí) &ndash; Sau trận thua 0-1 đầy bất ngờ trước indonesia, nước chủ nhà Myanmar chính thức bị loại từ vòng bảng. Các CĐV Myanmar đã vô cùng tức giận và đòi xử trọng tài người Việt Nam Võ Minh Trí, vì ông này đã không chịu…ưu ái đội nhà.<!--more-->
-Trọng tài FIFA Võ Minh Trí được giao nhiệm vụ bắt trận đấu giữa chủ nhà Myanmar và Indonesia chiều qua. Đây là trận đấu có tính chất rất căng thẳng, bởi cả hai đội đều có cơ hội vào bán kết. Đặc biệt, trên sân nhà, hơn 3 vạn CĐV Myanmar đã tạo ra sức ép vô cùng lớn.</p>
-
-<p>Công tác trọng tài thực sự khiến các đội bóng lo ngại ở SEA Games năm nay, nhưng có lẽ đội Indonesia đã phải cảm ơn trọng tài Võ Minh Trí khi trọng tài người Việt Nam đã bắt quá công tâm.</p>
-
-<p>Trọng tài Võ Minh Trí, ảnh: DT
-Trọng tài Võ Minh Trí, ảnh: DT</p>
-
-<p><img src="/assets/main6.jpg" alt="My helpful screenshot" /></p>
-
-<p>Trong trận đấu này, ông Trí đã vô cùng dũng cảm thổi phạt 11m đối với đội chủ nhà Myanmar, sau tình huống Alfin bị thủ môn Phyo Aung Pya phạm lỗi trong vòng 16m50 ở phút 36. Và cũng từ tình huống này, trên chấm 11m, đích thân Tuasalamony đã dễ dàng ghi bàn giúp U23 Indonesia vươn lên dẫn 1-0.</p>
-
-<p>BHL, các cầu thủ và hàng nghìn CĐV Myanmar đã phản ứng vô cùng dữ dội, phản đối lại quyết định của trọng tài. Như dầu đổ thêm vào lửa, cuối trận U23 Myanmar chỉ còn chơi với 10 người khi Ye Lin Aung bị đuổi khỏi sân. Đây là một tình huống chính xác nữa của còi vàng Việt Nam, bởi trong một tình huống va chạm cầu thủ của chủ nhà đã có pha trả đũa ác ý đối với cầu thủ đội khách.</p>
-
-<p>Cho rằng đội nhà thua là vì các quyết định của trọng tài, CĐV Myanmar đã trút giận vào trọng tài người Việt Nam. Thậm chí, đã có cả 1 CĐV chạy vào sân đòi “xử” trọng tài Trí, nhưng đã bị lực lượng an ninh bắt giữ. Sau đó, rất nhiều gạch đá từ các khán đài đã được ném xuống sân, nhưng trọng tài Trí không bị sức ép, vẫn rất bản lĩnh điều hành trận đấu đến những phút cuối cùng.</p>
-
-<p>Sau khi trận đấu kết thúc, hàng nghìn CĐV Myanmar đã đợi ở cổng sân để “nói chuyện cho ra nhẽ” với trọng tài người Việt Nam, nhưng ông Trí đã được lực lượng an ninh bảo vệ an toàn ra về.</p>
 ]]></content>
   </entry>
   
